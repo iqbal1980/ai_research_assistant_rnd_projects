@@ -887,5 +887,7 @@ You can reach me at:
 ```text
 iaddou@gmu.edu
 cto@ezducate.ai
+https://www.linkedin.com/in/iqbaladdou/
+https://x.com/IqbalAddou
 ```
 
