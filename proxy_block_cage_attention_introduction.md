@@ -1,4 +1,4 @@
-# Proxy Block-CAGE: A Sparse Attention Experiment from an RTX 2080 Laptop
+# Proxy Block-CAGE: Working with ChatGPT as a research assistant to create a new type of Sparce Attention algorithm
 
 I started this project with a question that was half technical and half personal:
 
